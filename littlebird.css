@@ -1,5 +1,4 @@
-
-  body,
+ body,
   html {
     height: 100%;
     font: 400 15px/1.8 "Lato", sans-serif;
@@ -348,8 +347,12 @@
   	border-bottom: 3px solid #f27b48;
   	margin-top: 15px;
   }
+  .first-step {
+    text-align:center;
+  }
   .second-step{
     margin: 0px;
+    text-align: center;
   }
   #toy-pic {
 	width: 450px;
